@@ -5,6 +5,7 @@ ProxyFlow – A simple terminal tool to quickly set, unset, and manage HTTP, HTT
 - Shows current proxy settings in a clean format.
 - Designed to work seamlessly with `source` for immediate effect in the current terminal.
 
+![fastest window](ss.png)
 
 # usage
 
