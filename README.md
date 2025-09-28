@@ -1,5 +1,10 @@
 # proxyflow
-set proxy for linux shell
+ProxyFlow – A simple terminal tool to quickly set, unset, and manage HTTP, HTTPS, and SOCKS5 proxy environment variables in your current shell session.
+
+- Supports selective proxy types or all at once.
+- Shows current proxy settings in a clean format.
+- Designed to work seamlessly with `source` for immediate effect in the current terminal.
+
 
 # usage
 
