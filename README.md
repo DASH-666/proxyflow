@@ -8,7 +8,7 @@ ProxyFlow – A simple terminal tool to quickly set, unset, and manage HTTP, HTT
 
 # usage
 
-### 1: run froxyfolw.sh like that:
+### 1: run proxyflow.sh like that:
 
 ```
 source proxyflow.sh
