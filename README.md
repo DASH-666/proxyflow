@@ -26,7 +26,18 @@ then write this line on ```~/.zshrc``` or ```~/.bashrc```
 alias proxyflow='source proxyflow.sh
 ```
 
-### example
+# example
 ```
 proxyflow -u all -i 127.0.0.1 -p 1080 -t all
+```
+
+The output will be something like this:
+
+‍‍‍```
+http proxy   : <unset>
+https proxy  : <unset>
+socks5 proxy : <unset>
+http proxy   : 127.0.0.1:1080
+https proxy  : 127.0.0.1:1080
+socks5 proxy : 127.0.0.1:1080
 ```
