@@ -11,14 +11,12 @@ Options:
   -h, --help          Show this help message and exit
   -i, --ip IP         Proxy IP address (required for set)
   -p, --port PORT     Proxy port (required for set)
-  -t, --type TYPE     Proxy type: http, https, socks5, all (default: all) [for set]
-  -u, --unset [TYPE]  Unset proxy variables of given type (http|https|socks5|all).
-                      If TYPE is omitted, defaults to "all".
+  -t, --type TYPE     Proxy type: http, https, socks5, all (default: all)
+  -u, --unset [TYPE]  Unset proxy, variables: http, https, socks5, all (default: all).
   -s, --show          Show current proxy variables (raw env style)
 
 Notes:
-  * For setting, --type defaults to "all" if not provided
-  * For unsetting, TYPE defaults to "all" if not provided
+  * this tool must to use with "source" perfix
 EOF
 }
 
