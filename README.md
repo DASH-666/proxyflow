@@ -1,16 +1,16 @@
 # proxyflow
 set proxy for linux shell
 
-### usage
+# usage
 
-# 1: run froxyfolw.sh like that:
+### 1: run froxyfolw.sh like that:
 
 ```
 source proxyflow.sh
 ```
 
 
-# 2 : or if yoy want to be acces anyware:
+### 2 : or if yoy want to be acces anyware:
 
 move proxyflow.sh to ```~/.local/bin```.
 
