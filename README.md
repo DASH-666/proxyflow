@@ -25,3 +25,8 @@ then write this line on ```~/.zshrc``` or ```~/.bashrc```
 ```
 alias proxyflow='source proxyflow.sh
 ```
+
+### example
+```
+proxyflow -u all -i 127.0.0.1 -p 1080 -t all
+```
