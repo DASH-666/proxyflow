@@ -31,7 +31,7 @@ alias proxyflow='source proxyflow.sh
 proxyflow -u all -i 127.0.0.1 -p 1080 -t all
 ```
 
-The output will be something like this:
+the output will be something like this:
 
 ```
 http proxy   : <unset>
