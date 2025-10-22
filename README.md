@@ -16,7 +16,7 @@ source proxyflow.sh
 ```
 
 
-### 2 : or if yoy want to be acces anyware:
+### 2 : or if you want to be acces anyware:
 
 move proxyflow.sh to ```~/.local/bin```.
 
