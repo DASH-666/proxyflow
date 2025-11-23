@@ -1,3 +1,5 @@
+i don't know about bash too much. ai helped me to make this program
+
 # proxyflow
 ProxyFlow – A simple terminal tool to quickly set, unset, and manage HTTP, HTTPS, and SOCKS5 proxy environment variables in your current shell session.
 
