@@ -1,3 +1,5 @@
+This repository is just a backup. I do not provide any support for it. I am not responsible for any damage this project may cause to your system. It is what it is.
+
 i don't know about bash too much. ai helped me to make this program
 
 # proxyflow
